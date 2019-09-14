@@ -1,5 +1,5 @@
 # for_Ozon
-Parsing for the Ozon online store
+Parsing for the Ozon
 
 
 		 Имеем входную строку
